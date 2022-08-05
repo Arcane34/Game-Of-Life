@@ -15,3 +15,8 @@ These rules can then be condensed into the following:
 
 Lastly, after establishing the rules, you can choose a starting generation of live cells in a particular pattern
 then observe the changes over generations caused by the rules.
+
+This repository contains code that simulates the game of life with the help of a starting generation text file.
+
+![Alt Text](https://upload.wikimedia.org/wikipedia/commons/e/e6/Conways_game_of_life_breeder_animation.gif)
+A screenshot of a puffer-type breeder (red) that leaves glider guns (green) in its wake, which in turn create gliders (blue) (animation)
