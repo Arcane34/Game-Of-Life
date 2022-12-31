@@ -22,3 +22,9 @@ This repository contains code that simulates the game of life with the help of a
 ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/e/ec/Conways_game_of_life_breeder.png)
 
 A screenshot of a puffer-type breeder (red) that leaves glider guns (green) in its wake, which in turn create gliders (blue).
+
+After working on this, I wanted to adapt the game of life to create something that would continue to expand while also being able to change colour so I created a version 2.
+
+For this the rules are tweaked such that it is easier for a cell to multiply than to die, furthermore I added a colour change system to each cell that depended on the age of the cell (how many generations/frames it is consecutively), leading to this:
+
+![](https://github.com/Arcane34/Game-Of-Life/blob/main/Game-of-life-ver2.gif)
