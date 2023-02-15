@@ -19,7 +19,6 @@ then observe the changes over generations caused by the rules.
 This repository contains code that simulates the game of life with the help of a starting generation text file.
 
 
-[animation](https://upload.wikimedia.org/wikipedia/commons/e/e6/Conways_game_of_life_breeder_animation.gif)
 ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/e/e6/Conways_game_of_life_breeder_animation.gif)
 ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/e/ec/Conways_game_of_life_breeder.png)
 
